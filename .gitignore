@@ -1,0 +1,14 @@
+# Compiled Java bytecode
+bin/
+*.class
+
+# OS & Editor temporary files
+.DS_Store
+Thumbs.db
+.vscode/
+.zed/
+.idea/
+*.iml
+
+# Log files
+*.log
